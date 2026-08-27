@@ -1,21 +1,85 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Data analytics and machine learning projects.<br><br>👯 I’m looking to collaborate on<br>Interesting data, ML, and NLP projects.<br><br>🤝 I’m looking for help with<br>Turning my data projects into real-world applications.<br><br>🌱 I’m currently learning<br>Machine learning, NLP, and working with real-world data.<br><br>💬 Ask me about<br>Python, data analysis, machine learning, Kaggle, or F1.<br><br>⚡ Fun fact<br>I built an F1 Pit Stop Predictor that achieved 0.947 ROC-AUC. 🏎️📊
+# Hi, I'm Bilal Shabbir
 
+Data Analytics & Machine Learning Enthusiast · Computer Software Engineering Student
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bilal-shabbir-669621328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilalshabbirbajwa2@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bilal1shabbir3-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bilal1shabbir3-star&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bilal1shabbir3-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bilal1shabbir3-star&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Turning messy data into useful insights and smarter predictions.
 
 ---
-[![](https://komarev.com/ghpvc/?username=bilal1shabbir3-star&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Do
+
+I'm a Computer Software Engineering student focused on **data analytics and machine learning**.
+
+I enjoy working with data, finding patterns, building predictive models, and turning results into insights that are easy to understand. I've built projects across **data analysis, machine learning, NLP, and recommendation systems**.
+
+Currently open to:
+- Collaborating on data analytics projects
+- Machine learning projects
+- NLP and recommendation projects
+- Real-world data problems
+- Open source projects
+
+> If you're working on something involving data, machine learning, or NLP, I'd love to hear about it.
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## Credentials
+
+| | |
+|---|---|
+| Education | BSc Computer Software Engineering |
+| CGPA | 3.77 / 4.0 |
+| Projects | 5 independent end-to-end data projects |
+| Certifications | Python · Data Visualization |
+| Languages | English · Urdu · Punjabi |
+
+---
+
+## Featured Projects
+
+**F1 Pit Stop Predictor**  
+Predicting F1 pit-stop outcomes using race data. Achieved **0.947 ROC-AUC** and became my most-upvoted Kaggle notebook with 14 upvotes.
+
+**TMDB Movie Recommender**  
+Built a movie recommendation system that uses movie information to find and recommend similar movies.
+
+**Cuisine Regionality Classifier**  
+Built a model that looks at recipe ingredients and predicts the regional cuisine they belong to.
+
+**Diabetes Prediction**  
+Built a machine learning model to predict diabetes while identifying and handling an important data-quality issue.
+
+**Heart Disease Prediction**  
+Explored clinical data to find patterns and turn the results into clear and understandable insights.
+
+---
+
+## Let's Collaborate
+
+I'm interested in projects where **data can help answer questions, solve problems, or make better decisions**.
+
+If you're building something around data analytics, machine learning, NLP, or predictive modelling:
+
+→ Open an issue on any repo  
+→ Or reach out through GitHub or LinkedIn
+
+I'm always open to projects where I can **learn, contribute, and build something useful.**
+
+---
+
+*"Turning data into insights that matter."*

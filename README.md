@@ -89,3 +89,7 @@ I'm always open to projects where I can **learn, contribute, and build something
 ---
 
 *"Turning data into insights that matter."*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=bilal1shabbir3-star&label=Profile%20Views&color=0e75b6&style=flat)

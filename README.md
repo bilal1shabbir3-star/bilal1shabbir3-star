@@ -1,95 +1,163 @@
-# Hi, I'm Bilal Shabbir
+<div align="center">
 
-Data Analytics & Machine Learning Enthusiast · Computer Software Engineering Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:7dd3fc&height=220&section=header&text=Bilal%20Shabbir&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
-Turning messy data into useful insights and smarter predictions.
+<a href="https://github.com/bilal1shabbir3-star">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7dd3fc&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics;Python+%7C+SQL+%7C+scikit-learn+%7C+PyTorch;Turning+data+into+insights+and+predictions;Currently+open+to+data+science+%26+analytics+opportunities" alt="Typing SVG" />
+</a>
 
-## 🔗 Connect with Me
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-shabbir-669621328/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bilalshabbir1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal1shabbir3@gmail.com)
+<a href="https://www.linkedin.com/in/bilal-shabbir-669621328">
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00b8d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work"/>
+</a>
 
----
+<br/><br/>
 
-## What I Do
+<img src="https://komarev.com/ghpvc/?username=bilal1shabbir3-star&label=PROFILE+VIEWS&color=7dd3fc&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/bilal1shabbir3-star?label=FOLLOWERS&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="GitHub followers"/>
 
-I'm a Computer Software Engineering student focused on **data analytics and machine learning**.
-
-I enjoy working with data, finding patterns, building predictive models, and turning results into insights that are easy to understand. I've built projects across **data analysis, machine learning, NLP, and recommendation systems**.
-
-Currently open to:
-- Collaborating on data analytics projects
-- Machine learning projects
-- NLP and recommendation projects
-- Real-world data problems
-- Open source projects
-
-> If you're working on something involving data, machine learning, or NLP, I'd love to hear about it.
+</div>
 
 ---
 
-## Tech Stack
+## 👋 Who I Am
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+```typescript
+const bilal = {
+  title: "Data Science and Analytics",
+  stack: [
+    "Python",
+    "scikit-learn",
+    "PyTorch",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "Power BI"
+  ],
+  launchedProjects: [
+    "TMDB Movie Recommender",
+    "Predicting F1 Pit Stops"
+  ],
+  certifications: "Python, Data Visualization",
+  status: "Currently looking for a job",
+  openTo: [
+    "Data Science",
+    "Data Analytics",
+    "Machine Learning",
+    "Real-world data problems"
+  ]
+};
+```
 
----
+## 🚀 Featured Projects
 
-## Credentials
+### 🎬 TMDB Movie Recommender
 
-| | |
+<a href="https://github.com/bilal1shabbir3-star/Movie-Recommender-TMDB-Latest-Movies-2025-26-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal1shabbir3-star&repo=Movie-Recommender-TMDB-Latest-Movies-2025-26-&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="TMDB Movie Recommender"/>
+</a>
+
+A content-based movie recommendation system using the TMDB latest movies dataset to recommend similar movies.
+
+| Layer | Technology |
 |---|---|
-| Education | BSc Computer Software Engineering |
-| CGPA | 3.77 / 4.0 |
-| Projects | 5 independent end-to-end data projects |
-| Certifications | Python · Data Visualization |
-| Languages | English · Urdu · Punjabi |
+| Language | Python |
+| Data | Pandas, NumPy |
+| ML | scikit-learn |
+| Visualization | Matplotlib, Seaborn |
+
+**[Live](https://github.com/bilal1shabbir3-star/Movie-Recommender-TMDB-Latest-Movies-2025-26-) · [Code](https://github.com/bilal1shabbir3-star/Movie-Recommender-TMDB-Latest-Movies-2025-26-)**
 
 ---
 
-## Featured Projects
+### 🏎️ F1 Pit Stop Predictor
 
-**F1 Pit Stop Predictor**  
-Predicting F1 pit-stop outcomes using race data. Achieved **0.947 ROC-AUC** and became my most-upvoted Kaggle notebook with 14 upvotes.
+<a href="https://github.com/bilal1shabbir3-star/Predicting-F1-Pit-Stops">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal1shabbir3-star&repo=Predicting-F1-Pit-Stops&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="F1 Pit Stop Predictor"/>
+</a>
 
-**TMDB Movie Recommender**  
-Built a movie recommendation system that uses movie information to find and recommend similar movies.
+A machine-learning project that predicts F1 pit-stop outcomes from race data, achieving a reported 0.947 ROC-AUC.
 
-**Cuisine Regionality Classifier**  
-Built a model that looks at recipe ingredients and predicts the regional cuisine they belong to.
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Data | Pandas, NumPy |
+| ML | scikit-learn |
+| Visualization | Matplotlib, Seaborn |
 
-**Diabetes Prediction**  
-Built a machine learning model to predict diabetes while identifying and handling an important data-quality issue.
-
-**Heart Disease Prediction**  
-Explored clinical data to find patterns and turn the results into clear and understandable insights.
-
----
-
-## Let's Collaborate
-
-I'm interested in projects where **data can help answer questions, solve problems, or make better decisions**.
-
-If you're building something around data analytics, machine learning, NLP, or predictive modelling:
-
-→ Open an issue on any repo  
-→ Or reach out through GitHub or LinkedIn
-
-I'm always open to projects where I can **learn, contribute, and build something useful.**
+**[Live](https://github.com/bilal1shabbir3-star/Predicting-F1-Pit-Stops) · [Code](https://github.com/bilal1shabbir3-star/Predicting-F1-Pit-Stops)**
 
 ---
 
-*"Turning data into insights that matter."*
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL"/>
+</p>
+
+### Data & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy"/>
+  <img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas"/>
+</p>
+
+### Visualization & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" alt="Matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=seaborn&theme=dark" alt="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI"/>
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=bilal1shabbir3-star&label=Profile%20Views&color=0e75b6&style=flat)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bilal1shabbir3-star&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal1shabbir3-star&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="180" alt="Top Languages"/>
+
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=bilal1shabbir3-star&theme=nord&hide_border=false&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=9ca3af" alt="GitHub Streak"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bilal1shabbir3-star&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal1shabbir3-star&bg_color=0f172a&color=c9d1d9&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+</div>
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bilal-shabbir-669621328">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:164e63,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>

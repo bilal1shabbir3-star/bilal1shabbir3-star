@@ -14,8 +14,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bilal1shabbir3-star&label=PROFILE+VIEWS&color=7dd3fc&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/bilal1shabbir3-star?label=FOLLOWERS&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="GitHub followers"/>
 
 </div>
 
@@ -112,9 +110,6 @@ I'm always open to projects where I can **learn, contribute, and build something
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bilal1shabbir3-star&label=Profile%20Views&color=0e75b6&style=flat)
 
-<a href="https://www.linkedin.com/in/bilal-shabbir-669621328/">
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00b8d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work"/>
-</a>
 
 <br/><br/>
 

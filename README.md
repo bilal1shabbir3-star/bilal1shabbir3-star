@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:7dd3fc&height=220&section=header&text=Bilal%20Shabbir&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
 <a href="https://github.com/bilal1shabbir3-star">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7dd3fc&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics;Python+%7C+SQL+%7C+scikit-learn+%7C+PyTorch;Turning+data+into+insights+and+predictions;Currently+open+to+data+science+%26+analytics+opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7dd3fc&center=true&vCenter=true&width=760&lines=Data+Analytics+%26+Machine+Learning+Enthusiast;Computer+Software+Engineering+Student;Turning+messy+data+into+useful+insights;Building+smarter+predictions+with+data" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/bilal-shabbir-669621328">
+<a href="https://www.linkedin.com/in/bilal-shabbir-669621328/">
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00b8d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work"/>
 </a>
 
@@ -19,109 +19,114 @@
 
 </div>
 
-👋 Who I Am
+👋 What I Do
 
-I'm a Data Science & Analytics enthusiast focused on turning data into useful insights and smarter predictions.
+I'm a Computer Software Engineering student focused on data analytics and machine learning.
 
-🐍 Core: Python, SQL, Pandas, NumPy
+I enjoy working with data, finding patterns, building predictive models, and turning results into insights that are easy to understand. I've built projects across data analysis, machine learning, NLP, and recommendation systems.
 
-🤖 Machine Learning: scikit-learn, PyTorch
+Currently Open To
 
-📊 Visualization & Analytics: Matplotlib, Seaborn, Power BI
+🤝 Collaborating on data analytics projects
 
-🚀 Projects: F1 Pit Stop Predictor, TMDB Movie Recommender, and other data/ML projects
+🤖 Machine learning projects
 
-🎯 Status: Currently looking for a job
+🧠 NLP and recommendation projects
 
-💼 Open to: Data Science, Data Analytics, Machine Learning, and real-world data problems
+📊 Real-world data problems
+
+🌱 Open source projects
+
+If you're working on something involving data, machine learning, or NLP, I'd love to hear about it.
+
+🧰 Tech Stack
+
+Data & Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas"/>
+<img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy"/>
+</p>
+
+Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=xgboost&theme=dark" alt="XGBoost"/>
+<img src="https://skillicons.dev/icons?i=lightgbm&theme=dark" alt="LightGBM"/>
+</p>
+
+Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter"/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+</p>
+
+🎓 Credentials
+
+<div align="center">
+
+
+
+
+
+🎓 Education
+
+BSc Computer Software Engineering
+
+📈 CGPA
+
+3.77 / 4.0
+
+🚀 Projects
+
+5 independent end-to-end data projects
+
+📜 Certifications
+
+Python · Data Visualization
+
+🌍 Languages
+
+English · Urdu · Punjabi
+
+</div>
 
 🚀 Featured Projects
 
 🏎️ F1 Pit Stop Predictor
 
-<a href="https://github.com/bilal1shabbir3-star/Predicting-F1-Pit-Stops">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal1shabbir3-star&repo=Predicting-F1-Pit-Stops&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="F1 Pit Stop Predictor"/>
-</a>
+Predicting F1 pit-stop outcomes using race data. Achieved 0.947 ROC-AUC and became my most-upvoted Kaggle notebook with 14 upvotes.
 
-Predicting F1 pit-stop outcomes using race data, with a reported 0.947 ROC-AUC.
-
-Layer
-
-Technology
-
-Language
-
-Python
-
-Data
-
-Pandas, NumPy
-
-Machine Learning
-
-scikit-learn
-
-Visualization
-
-Matplotlib, Seaborn
-
-Live · Code
+Focus: Data Analysis · Machine Learning · Predictive Modelling
 
 🎬 TMDB Movie Recommender
 
-<a href="https://github.com/bilal1shabbir3-star/Movie-Recommender-TMDB-Latest-Movies-2025-26-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal1shabbir3-star&repo=Movie-Recommender-TMDB-Latest-Movies-2025-26-&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="TMDB Movie Recommender"/>
-</a>
+Built a movie recommendation system that uses movie information to find and recommend similar movies.
 
-A content-based movie recommendation system using the TMDB latest-movies dataset to recommend similar movies.
+Focus: Recommendation Systems · Machine Learning · Data Analysis
 
-Layer
+🍛 Cuisine Regionality Classifier
 
-Technology
+Built a model that looks at recipe ingredients and predicts the regional cuisine they belong to.
 
-Language
+Focus: Machine Learning · Classification · NLP
 
-Python
+🩺 Diabetes Prediction
 
-Data
+Built a machine learning model to predict diabetes while identifying and handling an important data-quality issue.
 
-Pandas, NumPy
+Focus: Data Quality · Machine Learning · Predictive Modelling
 
-Machine Learning
+❤️ Heart Disease Prediction
 
-scikit-learn
+Explored clinical data to find patterns and turn the results into clear and understandable insights.
 
-Visualization
-
-Matplotlib, Seaborn
-
-Live · Code
-
-🧰 Tech Stack
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL"/>
-</p>
-
-Data & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch"/>
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="scikit-learn"/>
-<img src="https://skillicons.dev/icons?i=numpy&theme=dark" alt="NumPy"/>
-<img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas"/>
-</p>
-
-Visualization & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" alt="Matplotlib"/>
-<img src="https://skillicons.dev/icons?i=seaborn&theme=dark" alt="Seaborn"/>
-<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI"/>
-</p>
+Focus: Data Analysis · Pattern Discovery · Predictive Modelling
 
 📊 GitHub Stats
 
@@ -150,16 +155,45 @@ Visualization & Analytics
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilal1shabbir3-star&bg_color=0f172a&color=c9d1d9&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
 </div>
 
-🤝 Connect
+🤝 Let's Collaborate
+
+I'm interested in projects where data can help answer questions, solve problems, or make better decisions.
+
+If you're building something around data analytics, machine learning, NLP, or predictive modelling:
+
+→ Open an issue on any repo
+→ Or reach out through GitHub or LinkedIn
+
+I'm always open to projects where I can learn, contribute, and build something useful.
+
+🔗 Connect with Me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/bilal-shabbir-669621328">
+
+<a href="https://www.linkedin.com/in/bilal-shabbir-669621328/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://www.kaggle.com/bilalshabbir1">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="mailto:bilal1shabbir3@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
+
+"Turning data into insights that matter."
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bilal1shabbir3-star&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:164e63,100:0f172a&height=120&section=footer" width="100%"/>
+
 </div>
